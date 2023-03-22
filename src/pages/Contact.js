@@ -73,7 +73,7 @@ const Contact = () => {
                     Email Address
                   </h4>
                   <p className="text-primary-200 text-base">
-                    info@yourdomain.com
+                  contactus@atconstructionsllc.com
                   </p>
                 </div>
               </div>

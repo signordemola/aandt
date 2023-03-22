@@ -23,7 +23,7 @@ const Footer = () => {
               Contact us
             </h2>
             <p className="text-body-sm">(305) 615 2999</p>
-            <p className="text-body-sm">contact@colonialfurnitureinc.com</p>
+            <p className="text-body-sm">contactus@atconstructionsllc.com</p>
           </div>
           <div className="lg:w-1/3 md:w-1/2 w-full px-4">
             <h2 className="text-body-md text-gray-900 tracking-widest mb-3 uppercase">
